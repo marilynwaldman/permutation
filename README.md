@@ -13,7 +13,7 @@ git clone https://github.com/marilynwaldman/permutation.git
 cd 
 cd permutation
 rmdir -rf .git
-ls -s
+ls -l
 
 ```
 
