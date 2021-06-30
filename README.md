@@ -5,8 +5,6 @@ git clone https://github.com/marilynwaldman/permutation.git
 
 ```
 
-###  Define the permutation and n_take_k functions
-
 ###  Delete the .git directory 
 
 ```
@@ -17,9 +15,31 @@ ls -l
 
 ```
 
-###  Create a permutation repo on your github and push.
+##  Create a permutation repo on your github and push.
 
 From github
+
+### Push updates
+
+```
+
+git add .
+git commit -m "some comment"
+git push origin main
+
+
+```
+
+###  Define the permutation and n_take_k functions
+
+```
+cd
+cd permutation
+code .
+
+
+```
+
 
 ### Push updates
 
